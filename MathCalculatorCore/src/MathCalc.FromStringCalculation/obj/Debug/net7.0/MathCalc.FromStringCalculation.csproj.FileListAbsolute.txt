@@ -1,0 +1,15 @@
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\bin\Debug\net7.0\MathCalc.FromStringCalculation.deps.json
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\bin\Debug\net7.0\MathCalc.FromStringCalculation.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\bin\Debug\net7.0\MathCalc.FromStringCalculation.pdb
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\bin\Debug\net7.0\MathCalc.Core.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\bin\Debug\net7.0\MathCalc.Core.pdb
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.csproj.AssemblyReference.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.AssemblyInfoInputs.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.AssemblyInfo.cs
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.csproj.CoreCompileInputs.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.csproj.CopyComplete
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\refint\MathCalc.FromStringCalculation.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\MathCalc.FromStringCalculation.pdb
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.FromStringCalculation\obj\Debug\net7.0\ref\MathCalc.FromStringCalculation.dll

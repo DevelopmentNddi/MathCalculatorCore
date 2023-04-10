@@ -1,0 +1,12 @@
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\bin\Debug\net7.0\MathCalc.Core.deps.json
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\bin\Debug\net7.0\MathCalc.Core.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\bin\Debug\net7.0\MathCalc.Core.pdb
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.csproj.AssemblyReference.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.AssemblyInfoInputs.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.AssemblyInfo.cs
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.csproj.CoreCompileInputs.cache
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\refint\MathCalc.Core.dll
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\MathCalc.Core.pdb
+D:\project\MathCalculatorCore\MathCalculatorCore\src\MathCalc.Core\obj\Debug\net7.0\ref\MathCalc.Core.dll
